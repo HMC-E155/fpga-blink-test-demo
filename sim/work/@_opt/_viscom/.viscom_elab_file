@@ -1,0 +1,1 @@
+C:/lscc/radiant/2024.1/questasim/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 393216 work.fpga_blink_demo_tb(fast) -quiet -auto_acc_if_foreign -work work -L iCE40UP +acc -allow_unnamed -o _opt -id 19-001c42ea6b55-66d94bed-267-1ba8 +__design_bin_path+Y:/tutorials/fpga_blink_demo/sim +__betafsm

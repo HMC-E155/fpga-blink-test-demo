@@ -1,0 +1,9 @@
+Y:/tutorials/fpga_blink_demo/src/led_blink_test.sv {1 {vlog -work work -vopt -sv -stats=none Y:/tutorials/fpga_blink_demo/src/led_blink_test.sv
+Questa Lattice OEM Edition-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module top
+-- Compiling module clk_divider
+
+Top level modules:
+	top
+
+} {} {}}

@@ -1,0 +1,122 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dY:/tutorials/ModelSim_Tutorial/ModelSim_Project
+T_opt
+!s110 1725516782
+V1:3@7DgW1`YTd1XhoU4C?3
+04 18 4 work fpga_blink_demo_tb fast 0
+=19-001c42ea6b55-66d94bed-267-1ba8
+R1
+!s12f OEM25U2 
+!s12b OEM100
+!s124 OEM100
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work -L iCE40UP +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.2;79
+vclk_divider
+Z3 2Y:/tutorials/fpga_blink_demo/src/led_blink_test.sv
+Z4 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z5 !s110 1725516772
+!i10b 1
+!s100 YXkZRiVEPmBC63?MP22Ce1
+I954oS<7Y;_9Djh2=]nh[m1
+S1
+Z6 dY:/tutorials/fpga_blink_demo/sim
+Z7 w1725516517
+Z8 8Y:/tutorials/fpga_blink_demo/src/led_blink_test.sv
+Z9 FY:/tutorials/fpga_blink_demo/src/led_blink_test.sv
+!i122 16
+L0 16 17
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2024.2;79
+r1
+!s85 0
+31
+Z12 !s108 1725516772.000000
+Z13 !s107 Y:/tutorials/fpga_blink_demo/src/led_blink_test.sv|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|Y:/tutorials/fpga_blink_demo/src/led_blink_test.sv|
+!i113 0
+Z15 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfpga_blink_demo_tb
+2Y:/tutorials/fpga_blink_demo/src/led_blink_test_tb.sv
+R4
+R5
+!i10b 1
+!s100 ]S2BZ9@dg5@gUhkCEOzmg1
+I^?FT<V2BmjP6DA@93bcPb3
+S1
+R6
+w1725516766
+8Y:/tutorials/fpga_blink_demo/src/led_blink_test_tb.sv
+FY:/tutorials/fpga_blink_demo/src/led_blink_test_tb.sv
+!i122 17
+L0 5 15
+R10
+R11
+r1
+!s85 0
+31
+R12
+!s107 Y:/tutorials/fpga_blink_demo/src/led_blink_test_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|Y:/tutorials/fpga_blink_demo/src/led_blink_test_tb.sv|
+!i113 0
+R15
+R2
+vtop
+R3
+R4
+R5
+!i10b 1
+!s100 5c_h<_[bPEbVQid9:NW>[3
+IA42NjW<Z9bQ28@QHGToUo2
+S1
+R6
+R7
+R8
+R9
+!i122 16
+L0 1 14
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R2

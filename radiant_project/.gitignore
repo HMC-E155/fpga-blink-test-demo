@@ -1,0 +1,18 @@
+# Lattice Radiant files
+.build_status
+.recovery
+*.html
+**/impl*/
+*.xml
+*.ini
+*.dir/
+*.log
+*.tcl
+*.ccl
+*.srp
+*.dmp
+*.pfl
+._Real_._Math_.vhd
+
+# QuestaSim/ModelSim
+*.dblite

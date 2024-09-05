@@ -1,0 +1,1 @@
+ldc_set_location -site {34} [get_ports reset]
